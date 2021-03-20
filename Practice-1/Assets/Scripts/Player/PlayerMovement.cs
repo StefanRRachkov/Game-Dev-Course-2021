@@ -20,6 +20,19 @@ public class PlayerMovement : MonoBehaviour
     void Update () {
         horizontalInput = Input.GetAxisRaw("Horizontal");
         ResolveLookDirection();
+
+        //Translate movement
+        /*
+        Vector3 movement = Time.deltaTime * new Vector3(horizontalInput * moveSpeed,0,0);
+        Debug.Log(movement);
+        transform.Translate(movement);
+        */
+
+        //change position
+        /*
+        Vector3 movement = Time.deltaTime * new Vector3(horizontalInput * moveSpeed, 0, 0);
+        transform.position = transform.position + movement;
+        */
     }
 
    
@@ -27,12 +40,33 @@ public class PlayerMovement : MonoBehaviour
     void FixedUpdate ()
     {
         // Move our character
+        // Change velocity
+        /*
         if (horizontalInput != 0)
         {
             Vector2 target = rigidBody.velocity;
             target.x = horizontalInput * moveSpeed;
             rigidBody.velocity = (target);
         }
+        */
+        
+        if(horizontalInput != 0)
+        {
+            
+            Vector2 force = new Vector2(horizontalInput * moveSpeed,0);
+            if (rigidBody.velocity.x < 10)
+            {
+                rigidBody.AddForce(force);
+            }
+        }
+        
+        /*
+        if(horizontalInput != 0)
+        {
+            Vector2 nextPosition = rigidBody.position + Time.fixedDeltaTime * new Vector2(horizontalInput * moveSpeed , rigidBody.velocity.y);
+            rigidBody.MovePosition(nextPosition);
+        }
+        */
     }
 
     void ResolveLookDirection()
