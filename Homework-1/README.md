@@ -2,10 +2,10 @@
 
 You have a sample scene and an asset packgage.
 This homework is based of the first 4 practices in https://www.youtube.com/channel/UCsBZtgJpHY6mISHcyCXRnOA/videos : 
- 1. Intro to Unity
- 2. Unity Basics
- 3. C# Basics
- 4. Physics
+ * Intro to Unity
+ * Unity Basics
+ * C# Basics
+ * Physics
 
 # Your tasks for it are:
  1. Setup a scene - make a level with the assets that are given.
