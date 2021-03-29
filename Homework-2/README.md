@@ -1,3 +1,9 @@
+This homework is based of the second 4 practices in https://www.youtube.com/channel/UCsBZtgJpHY6mISHcyCXRnOA/videos : 
+ 5. Animation
+ 6. AI
+ 7. UI
+ 8. Shaders
+
 ## Screenshot of the AI + Shaders + UI + Animation HW
  ### Main Menu
  ![image](https://user-images.githubusercontent.com/25185815/108395056-0dbce280-721e-11eb-8be2-422630a331a9.png)
