@@ -8,7 +8,7 @@ Problems to discuss:
 2. Shaders - Camera Vignette Shader
 3. Pause Menu 
 4. Procedural Generation - Basics 
-5. Break 10:45-11:15
+5. Break 11:00-11:30
 6. Lose & Win state 
 7. UI Animation. 
 8. Level Generation
