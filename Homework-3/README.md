@@ -7,7 +7,7 @@ This homework is based of the last 4 practices in https://www.youtube.com/channe
  * Tools
 
 Also you will need the practice from 08.05.2021 in ***TO BE ADDED***
-Check out also: https://github.com/Ivan-Vankov/GameDevCourse/tree/gh-pages/Kamen/Networking :
+<br\>Check out also: https://github.com/Ivan-Vankov/GameDevCourse/tree/gh-pages/Kamen/Networking :
  * Networking
  * Procedural Generation
 
