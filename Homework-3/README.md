@@ -5,7 +5,7 @@ This homework is based of the last 4 practices in https://www.youtube.com/channe
  * Game Feel
  * Testing
  * Tools
-Also you will need the practice from 08.05.2021: ***TO BE ADDED***
+<br/>Also you will need the practice from 08.05.2021: ***TO BE ADDED***
  * Networking
  * Procedural Generation
 
