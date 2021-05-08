@@ -5,6 +5,9 @@ This homework is based of the last 4 practices in https://www.youtube.com/channe
  * Game Feel
  * Testing
  * Tools
+Also you will need the practice from 08.05.2021: ***TO BE ADDED***
+ * Networking
+ * Procedural Generation
 
 Also there are two tasks which will be covered on 8th of May
  * Procedural Generating
@@ -16,7 +19,11 @@ Tasks:
  1. Unit Tests - 1) When your player is hit, to lose life 2) When you jump on a spring to change the player's Y position 
  2. Controller support
  3. Procedurally generated levels - You can have one level as an introductory level and after that all levels will be generated.  
- 4. Multi-player ***BONUS*** - We will discuss it on 8th of May. Two players racing to the top or for limited time who will get most keys or something like that.
+ 4. Multi-player:
+  4.1. Sync movement and animations
+  4.2. Distinct players by showing players' names above their heads like "Player1", "Player2", etc.
+  4.3. Make a winning condition like who gets first to the top or the first to get a key
+  4.4. Show all players who is the winner
  5. Juice - Whatever you want, minimum 2 effects (Blood, Camera Shake etc) check Game Feel 
  6. A way to kill your enemies - By picking a powerup like in Pac-Man, by shooting projectiles at them, the choice is yours
  
