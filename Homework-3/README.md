@@ -1,11 +1,11 @@
 ## Final homework assignment
 
-This homework is based of the last 4 practices in https://www.youtube.com/channel/UCsBZtgJpHY6mISHcyCXRnOA/videos : 
+###This homework is based of the last 4 practices in https://www.youtube.com/channel/UCsBZtgJpHY6mISHcyCXRnOA/videos : 
  * VFX
  * Game Feel
  * Testing
  * Tools
-<br/>Also you will need the practice from 08.05.2021: ***TO BE ADDED***
+###Also you will need the practice from 08.05.2021: ***TO BE ADDED***
  * Networking
  * Procedural Generation
 
