@@ -20,10 +20,10 @@ Tasks:
  2. Controller support
  3. Procedurally generated levels - You can have one level as an introductory level and after that all levels will be generated.  
  4. Multi-player:
-   4.1. Sync movement and animations
-   4.2. Distinct players by showing players' names above their heads like "Player1", "Player2", etc.
-   4.3. Make a winning condition like who gets first to the top or the first to get a key
-   4.4. Show all players who is the winner
+   <br/>4.1. Sync movement and animations
+   <br/>4.2. Distinct players by showing players' names above their heads like "Player1", "Player2", etc.
+   <br/>4.3. Make a winning condition like who gets first to the top or the first to get a key
+   <br/>4.4. Show all players who is the winner
  5. Juice - Whatever you want, minimum 2 effects (Blood, Camera Shake etc) check Game Feel 
  6. A way to kill your enemies - By picking a powerup like in Pac-Man, by shooting projectiles at them, the choice is yours
  
