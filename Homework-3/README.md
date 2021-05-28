@@ -6,7 +6,7 @@ This homework is based of the last 4 practices in https://www.youtube.com/channe
  * Testing
  * Tools
 
-Also you will need the practice from 08.05.2021 in ***TO BE ADDED***
+Also you will need the practice from 08.05.2021 in https://www.youtube.com/watch?v=oyaUpf83cys & https://www.youtube.com/watch?v=Ad797ktFHgY
 <br/>Check out also: https://github.com/Ivan-Vankov/GameDevCourse/tree/gh-pages/Kamen/Networking :
  * Networking
  * Procedural Generation
