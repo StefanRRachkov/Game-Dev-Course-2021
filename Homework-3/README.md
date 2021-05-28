@@ -10,10 +10,6 @@ Also you will need the practice from 08.05.2021 in ***TO BE ADDED***
 <br/>Check out also: https://github.com/Ivan-Vankov/GameDevCourse/tree/gh-pages/Kamen/Networking :
  * Networking
  * Procedural Generation
-
-Also there are two tasks which will be covered on 8th of May
- * Procedural Generating
- * Networking
  
 ![Doodly Pickup](https://user-images.githubusercontent.com/25185815/108393904-cbdf6c80-721c-11eb-9a0b-45e5a35ba336.png)
 
