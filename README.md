@@ -6,7 +6,7 @@ Here are all the tasks for the homework of the course. Also in this repository I
 |:----:|:--------:|
 | [Homework-1](https://github.com/StefanRRachkov/Game-Dev-Course-2021/tree/main/Homework-1) | 19.03.2021 |
 | [Homework-2](https://github.com/StefanRRachkov/Game-Dev-Course-2021/tree/main/Homework-2) | 12.04.2021 |
-| [Homework-3](https://github.com/StefanRRachkov/Game-Dev-Course-2021/tree/main/Homework-3) | 20.05.2021 |
+| [Homework-3](https://github.com/StefanRRachkov/Game-Dev-Course-2021/tree/main/Homework-3) | 28.05.2021 |
 
 
 ## Practices
